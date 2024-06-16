@@ -35,6 +35,10 @@ magick convert player.png -crop 48x48 player/frame_%02d.png
 
 ![image-20240605073614643](./img/image-20240605073614643.png)
 
+1.4版本是：
+
+![image-20240617025947347](./img/image-20240617025947347.png)
+
 ![image-20240605073628732](./img/image-20240605073628732.png)
 
 ![image-20240605071506699](./img/image-20240605071506699.png)
